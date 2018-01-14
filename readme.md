@@ -1,6 +1,6 @@
-# Space Invaders
+# Ft_Retro: Space Invaders
 
-__42 PISCINE-CPP RUSH 00__
+__42 PISCINE-CPP RUSH 00 PROJECT__
 
 A project that we are given a time limit of 53 hours, 42 minutes to write and complete a full retro arcade game in C++.
 We were given instructions to use ncurses to make this game interactive in the terminal.
